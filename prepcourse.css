@@ -1,0 +1,33 @@
+html, 
+body {
+    font-family: Arial;
+    font-size: 14px;
+    background-color: #F2CCF7;
+    color: #4A2262;
+    background-image: url(http://big.assets.huffingtonpost.com/slide_297900_2459978_free.gif);
+});
+}
+
+h1 {
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: 200;
+    color: #071269
+}
+h2 {
+    font-weight: bold;
+    color: #3B4EE6;
+    font-size: 18px;
+}
+a {
+    color: #0099e5;
+    text-decoration: none;
+}
+
+.page {
+    width: 800px;
+    margin: 30px auto;
+    padding:10px 20px;
+    box-shadow: 0 1px 1pm rgba(0,0,0,0.15);
+    background-color: #fff;
+}
